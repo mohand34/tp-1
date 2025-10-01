@@ -90,3 +90,6 @@ Choisissant une couleur qui attire l’attention.
 Ajoutant un effet visuel au clic (changement de couleur, ombre, animation).
 
 Écrivant un texte clair qui indique l’action (ex. : “Envoyer”, “Télécharger”).
+
+(Mon figma):
+https://www.figma.com/proto/FBCwcCifs0WEiHuv29I5tO/Tearoom--v1-?node-id=4-2&t=s18jb29EKDk37O1f-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A3
